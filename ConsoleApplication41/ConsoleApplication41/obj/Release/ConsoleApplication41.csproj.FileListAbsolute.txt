@@ -1,0 +1,9 @@
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication41\ConsoleApplication41\bin\Release\ConsoleApplication41.exe.config
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication41\ConsoleApplication41\bin\Release\ConsoleApplication41.exe
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication41\ConsoleApplication41\bin\Release\ConsoleApplication41.pdb
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication41\ConsoleApplication41\obj\Release\ConsoleApplication41.exe
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication41\ConsoleApplication41\obj\Release\ConsoleApplication41.pdb
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication41\ConsoleApplication41\bin\Release\ConsoleApplication41.exe.manifest
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication41\ConsoleApplication41\bin\Release\ConsoleApplication41.application
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication41\ConsoleApplication41\obj\Release\ConsoleApplication41.exe.manifest
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication41\ConsoleApplication41\obj\Release\ConsoleApplication41.application
